@@ -1,11 +1,12 @@
 # Python-Every-Day
 
 1 Hour Coding With Python For 365 Days
+___________________________________________________
 
-1- Remove Repeated 
 
-2- Selection_Sorting
-
-3- Encryption
-
-4- Decryption
+Day | Project
+----| ----------------------------------
+0   | Remove Repeated
+1   | Selection_Sorting
+2   | Encryption
+3   | Decryption
