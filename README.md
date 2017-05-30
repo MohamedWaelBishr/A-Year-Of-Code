@@ -8,5 +8,5 @@ Day | Project
 ----| ----------------------------------
 0   | Remove Repeated
 1   | Selection_Sorting
-2   | Encryption
-3   | Decryption
+2   | Encryption Using Dictionary
+3   | Decryption Using Dictionary
