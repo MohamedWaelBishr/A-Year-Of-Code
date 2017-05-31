@@ -10,3 +10,5 @@ Day | Project
 1   | Selection_Sorting
 2   | Encryption Using Dictionary
 3   | Decryption Using Dictionary
+4   | Encryption Using ASCI Table
+5   | Decryption Using ASCI Table
