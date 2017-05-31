@@ -1,7 +1,15 @@
+
+
 # Python-Every-Day
 
-1 Hour Coding With Python For 365 Days
+
+![img](http://i.imgur.com/3GmPd7O.png)
+
 ___________________________________________________
+
+# 1 Hour Coding With Python For 365 Days
+___________________________________________________
+
 
 
 Day | Project
@@ -12,3 +20,6 @@ Day | Project
 3   | Decryption Using Dictionary
 4   | Encryption Using ASCI Table
 5   | Decryption Using ASCI Table
+
+
+
