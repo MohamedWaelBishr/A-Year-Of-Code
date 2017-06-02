@@ -23,6 +23,6 @@ Day | Project
 6   | Encryption Using Index
 7   | Decryption Using Index
 8   | Shopping Cart Without Quantity Using List
-
+9   | Shopping Cart With Quantity Using Dictionary
 
 
