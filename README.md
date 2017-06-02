@@ -22,6 +22,7 @@ Day | Project
 5   | Decryption Using ASCI Table
 6   | Encryption Using Index
 7   | Decryption Using Index
+8   | Shopping Cart Without Quantity Using List
 
 
 
