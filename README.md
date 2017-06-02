@@ -5,7 +5,7 @@
 
 ![img](http://i.imgur.com/3GmPd7O.png)
 
-## I focus on "learn by doing approach" So This is my year of code start in 6/4/2017 till 6/4/2018 big thanks to  [Mohammed Rashad](https://github.com/MohammedRashad)  for spreading this idea his repository : [A Year of Code](https://github.com/MohammedRashad/A-Year-of-Code) ##
+## I focus on "learn by doing approach" So This is my year of code start in 29/5/2017 till 29/5/2018 big thanks to  [Mohammed Rashad](https://github.com/MohammedRashad)  for spreading this idea his repository : [A Year of Code](https://github.com/MohammedRashad/A-Year-of-Code) ##
 
 ___________________________________________________
 
