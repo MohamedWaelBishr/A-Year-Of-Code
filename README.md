@@ -20,6 +20,8 @@ Day | Project
 3   | Decryption Using Dictionary
 4   | Encryption Using ASCI Table
 5   | Decryption Using ASCI Table
+6   | Encryption Using Index
+7   | Decryption Using Index
 
 
 
